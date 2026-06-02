@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KinoDOGandFOX/KinoDOGandFOX.vcxproj">
+    <Platform Project="Win32" />
+  </Project>
+  <Project Path="SetupKinoDOGandFOX/SetupKinoDOGandFOX.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
