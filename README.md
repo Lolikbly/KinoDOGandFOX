@@ -34,4 +34,4 @@ C++/CLI, Windows Forms, .NET Framework 4.7.2
 
 ## 👨‍💻 Author
 
-KirillCO | [GitHub](https://github.com/Lolikbli)
+Lolikbly | [GitHub](https://github.com/Lolikbli)
