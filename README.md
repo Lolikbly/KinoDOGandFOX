@@ -14,7 +14,7 @@ Cinema reference service — manage cinemas, films, sessions and generate report
 
 ---
 
-## 📋 Features
+## Features
 
 - Cinemas: add, edit, delete
 - Films: add, edit, delete
@@ -32,6 +32,6 @@ C++/CLI, Windows Forms, .NET Framework 4.7.2
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Lolikbly | [GitHub](https://github.com/Lolikbli)
